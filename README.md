@@ -13,6 +13,9 @@ Welcome to my GitHub profile! Here’s a bit about me:
 ## 🛠️ Languages & Tools
 ![C++](https://img.shields.io/badge/-C++-111?style=flat&logo=c++&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-111?style=flat&logo=JavaScript&logoColor=fff)
+![HTML](https://img.shields.io/badge/-HTML-111?style=flat&logo=HTML&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS-111?style=flat&logo=CSS&logoColor=fff)
+![C#](https://img.shields.io/badge/-C#-111?style=flat&logo=C#&logoColor=fff)
 <!-- Add more badges as needed -->
 
 ## 📈 GitHub Stats
