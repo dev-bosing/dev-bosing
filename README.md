@@ -11,20 +11,23 @@ Welcome to my GitHub profile! Here’s a bit about me:
 - ⚡ Fun fact: I am actually an active person but when I am not, I am stuck on my computer working on little projects.
 
 ## 🛠️ Languages & Tools
-![C++](https://img.shields.io/badge/-Language1-111?style=flat&logo=Language1&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-Language2-111?style=flat&logo=Language2&logoColor=fff)
+![C++](https://img.shields.io/badge/-C++-111?style=flat&logo=C++&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-111?style=flat&logo=JavaScript&logoColor=fff)
 <!-- Add more badges as needed -->
 
 ## 📈 GitHub Stats
 ![dev-bosing's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-bosing&show_icons=true&theme=default)
 
+<!--
 ## 🚀 Featured Projects
 - [Project Name](Project Link) — Short description
-- [Project Name](Project Link) — Short description
+- [Project Name](Project Link) — Short description 
+-->
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](YourLinkedInURL)
-[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=twitter&logoColor=white)](YourTwitterURL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bosingdawn/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1da1f2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/bosingdawn)
+[![Instagram](https://img.shields.io/badge/-Instagram-1da1f2?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/bsngd_/)
 <!-- Add more as needed -->
 
 <!--
