@@ -11,11 +11,11 @@ Welcome to my GitHub profile! Here’s a bit about me:
 - ⚡ Fun fact: I am actually an active person but when I am not, I am stuck on my computer working on little projects.
 
 ## 🛠️ Languages & Tools
-![C++](https://img.shields.io/badge/-C++-111?style=flat&logo=c++&logoColor=fff)
+![C++](https://img.shields.io/badge/-C++-111?style=flat&logo=c%2b%2b&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-111?style=flat&logo=JavaScript&logoColor=fff)
-![HTML](https://img.shields.io/badge/-HTML-111?style=flat&logo=HTML&logoColor=fff)
-![CSS](https://img.shields.io/badge/-CSS-111?style=flat&logo=CSS&logoColor=fff)
-![C#](https://img.shields.io/badge/-Csharp-111?style=flat&logo=csharp&logoColor=fff)
+![HTML5](https://img.shields.io/badge/-HTML5-111?style=flat&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-111?style=flat&logo=css3&logoColor=fff)
+![C#](https://img.shields.io/badge/-C%23-111?style=flat&logo=c-sharp&logoColor=fff)
 <!-- Add more badges as needed -->
 
 ## 📈 GitHub Stats
