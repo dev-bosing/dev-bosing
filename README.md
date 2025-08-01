@@ -11,8 +11,8 @@ Welcome to my GitHub profile! Here’s a bit about me:
 - ⚡ Fun fact: I am actually an active person but when I am not, I am stuck on my computer working on little projects.
 
 ## 🛠️ Languages & Tools
-![Your Language 1](https://img.shields.io/badge/-Language1-111?style=flat&logo=Language1&logoColor=fff)
-![Your Language 2](https://img.shields.io/badge/-Language2-111?style=flat&logo=Language2&logoColor=fff)
+![C++](https://img.shields.io/badge/-Language1-111?style=flat&logo=Language1&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-Language2-111?style=flat&logo=Language2&logoColor=fff)
 <!-- Add more badges as needed -->
 
 ## 📈 GitHub Stats
