@@ -25,7 +25,7 @@ Welcome to my GitHub profile! Here’s a bit about me:
 -->
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linked&logoColor=white)](https://www.linkedin.com/in/bosingdawn/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bosingdawn/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1da1f2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/bosingdawn)
 [![Instagram](https://img.shields.io/badge/-Instagram-1da1f2?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/bsngd_/)
 <!-- Add more as needed -->
